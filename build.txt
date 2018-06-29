@@ -1,0 +1,3 @@
+author = Left Click
+version = 0.1
+displayName = World Cleanup Aid
